@@ -36,13 +36,13 @@ Divided into three modules, each module will take about an hour, combined with l
 ### 🎓Prerequisite knowledge ###
 **Level**: Beginners or new to Ray
 
- * Familiarity with Python 3.8+ and basic programming concepts: lists, comprehensions, decorators, functions, dictionaries, classes, loops, exceptional handling, etc
- * Laptop with at least 8-16GB Memory with latest Chrome browser
+ * Familiarity with Python 3.9+ and basic programming concepts: lists, comprehensions, decorators, functions, dictionaries, classes, loops, exceptional handling, etc
+ * A UNIX based Laptop with at least 8-16GB Memory with latest Chrome browser
  * Prior knowledge of Jupyter notebooks 
  * Basic knowledge of machine learning concepts
  
  
-## 👩 Setup instructions for local laptop 💻
+## 👩 Setup instructions for local Unix based-laptop 💻
 If you want to follow the material in class, please follow this instructions before class to setup your laptop.
 
 ### Using conda
@@ -56,7 +56,7 @@ If you already have Anaconda installed, consider running conda `upgrade --all.`
 5. `python3 -m pip install -r requirements.txt`
 7. `jupyter lab`
 
-### Installing on Apple M1
+### Installing on Apple M1 for MacBook Pro
 If you are using [Apple M1](https://docs.ray.io/en/latest/ray-overview/installation.html#m1-mac-apple-silicon-support) laptop 🍎 follow the following instructions:
 
 1. `conda create -n ray-core-tutorial-devai23 python=3.10`
