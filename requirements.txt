@@ -5,10 +5,11 @@ jupyterlab
 scikit-learn
 tune-sklearn
 xgboost
-xgboost-ray
+xgboost-ray==0.1.18
 tqdm
 torch
 torchvision
 scipy
 torchinfo
+urllib3<1.27
 matplotlib
