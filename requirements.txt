@@ -1,4 +1,5 @@
 ray[default]
+ray[serve]
 jupyter
 jupyterlab
 scikit-learn
